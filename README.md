@@ -1,14 +1,27 @@
-# 🚀 E. Preetham | AI & Full-Stack Engineer
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Architect;Full+Stack+Software+Engineer;Immersive+Experience+Designer;Building+Intelligent+Ecosystems" alt="Typing SVG" />
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/17161060937879338823_0" width="600" alt="Neural Network Animation" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/preetham-empati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://preetham-empati.github.io/preetham-s_portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="REPLACE_WITH_YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-Download_PDF-45A1FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=120&section=header&text=E.%20PREETHAM&fontSize=50&animation=fadeIn&fontAlignY=50&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descAlignY=80&descSize=18" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Architecting+Intelligent+Systems;Full-Stack+Software+Engineer;Immersive+3D+UI+Designer;Transforming+Data+into+Logic" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/preetham-empati"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://preetham-empati.github.io/preetham-s_portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/RESUME-39D353?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CURRENT_STATUS-BUILDING_PROJECTBUDDY-39D353?style=flat-square&logo=target" />
+  <img src="https://img.shields.io/badge/LOCATION-TELANGANA,_INDIA-red?style=flat-square&logo=googlemaps" />
+</p>
+
+---
 
 ---
 
