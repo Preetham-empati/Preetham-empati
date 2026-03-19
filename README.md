@@ -12,15 +12,6 @@ I am an AI and Data Science student at **Vignan Institute of Technology and Scie
 - 🛡️ Architect of **LinkGuard AI**, an Android system for real-time malicious URL analysis.
 - ⚡ Fun fact: I find inspiration in the determination of *Naruto* and hold an **NCC 'A' Certificate**.
 
----
-
-### 🕹️ My Contribution Journey
-<p align="center">
-  <img src="https://raw.githubusercontent.com/preetham-empati/preetham-empati/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 | Category | Tools & Technologies |
@@ -52,6 +43,12 @@ I am an AI and Data Science student at **Vignan Institute of Technology and Scie
 #### 🤖 [Smart Classroom Monitoring](https://github.com/preetham-empati)
 *AI & Computer Vision*
 - Real-time attentiveness tracking using **OpenCV**, **MediaPipe**, and **Flask**.
+
+---
+### 🕹️ Contribution Canyon (The Game)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/preetham-empati/preetham-empati/output/github-contribution-grid-canyon.svg" alt="Preetham's Contribution Canyon" width="100%" />
+</p>
 
 ---
 
