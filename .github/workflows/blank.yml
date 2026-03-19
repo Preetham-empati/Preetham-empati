@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Every 24 hours
+    - cron: "0 */24 * * *" # Run once a day
   workflow_dispatch:
   push:
     branches:
@@ -14,14 +14,25 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+
+      # --- This is the new part that makes the Canyon! ---
+      - name: Generate github-contribution-grid-canyon.svg
+        uses: simple-icons/github-readme-activity-graph@main # We will use the 'area' graph from this action to create the 3D 'Canyon' look.
         with:
           github_user_name: ${{ github.repository_owner }}
+          area: true # This makes it a filled canyon, not just a line.
+          hide_border: true
+          # CUSTOM CANYON COLORS (TokyoNight-style base)
+          bg_color: 1A1B26
+          color: 7AA2F7 # Light blue peaks
+          line: 7AA2F7
+          point: FFFFFF # White coin-like points
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push github-contribution-grid-snake.svg to the output branch
+            dist/github-contribution-grid-canyon.svg
+
+      - name: push github-contribution-grid-canyon.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
