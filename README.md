@@ -23,46 +23,66 @@ I am an AI and Data Science student at **Vignan Institute of Technology and Scie
 
 ---
 
-### 🚀 Featured Projects
-
-<h1 align="center">🛠️ Technical Ecosystems</h1>
+### 🛠️ Technical Ecosystems
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.1); background: rgba(26, 27, 38, 0.8); backdrop-filter: blur(10px); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.3); transition: transform 0.3s, box-shadow 0.3s; margin-right: 2%;">
-      <div onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 12px 48px 0 rgba(31, 38, 135, 0.5)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 32px 0 rgba(31, 38, 135, 0.3)';">
+    <td width="33%" align="center" style="padding: 10px; border: 1px solid rgba(229, 37, 33, 0.3); border-radius: 10px; background: rgba(229, 37, 33, 0.05);">
+      <p style="margin: 0; font-size: 0.8em; color: #E52521;"><strong>LINKGUARD AI</strong></p>
+      <img src="https://geps.dev/v1/hp?total=100&current=100&color=E52521" width="100" alt="100%" />
+      <p style="margin: 0; font-size: 0.7em; color: #E52521;">✅ <strong>STABLE / PROD</strong></p>
+    </td>
+    <td width="33%" align="center" style="padding: 10px; border: 1px solid rgba(67, 176, 71, 0.3); border-radius: 10px; background: rgba(67, 176, 71, 0.05);">
+      <p style="margin: 0; font-size: 0.8em; color: #43B047;"><strong>PROJECTBUDDY</strong></p>
+      <img src="https://geps.dev/v1/hp?total=100&current=85&color=43B047" width="100" alt="85%" />
+      <p style="margin: 0; font-size: 0.7em; color: #43B047;">🚧 <strong>BETA / SCALING</strong></p>
+    </td>
+    <td width="33%" align="center" style="padding: 10px; border: 1px solid rgba(69, 161, 255, 0.3); border-radius: 10px; background: rgba(69, 161, 255, 0.05);">
+      <p style="margin: 0; font-size: 0.8em; color: #45A1FF;"><strong>3D PORTFOLIO</strong></p>
+      <img src="https://geps.dev/v1/hp?total=100&current=92&color=45A1FF" width="100" alt="92%" />
+      <p style="margin: 0; font-size: 0.7em; color: #45A1FF;">✨ <strong>FINAL POLISH</strong></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(229, 37, 33, 0.3); background: rgba(229, 37, 33, 0.05); backdrop-filter: blur(10px); box-shadow: 0 8px 32px 0 rgba(229, 37, 33, 0.2);">
+      <div onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';">
         <p align="center">
-          <img src="https://i.imgur.com/kS5z5w8.png" alt="LinkGuard AI Preview" width="100%" style="border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+          <img src="https://i.imgur.com/kS5z5w8.png" alt="LinkGuard AI" width="100%" style="border-radius: 12px; border: 1px solid rgba(229, 37, 33, 0.2);" />
         </p>
-        <h3 align="center" style="color: #45A1FF;">🛡️ LinkGuard AI</h3>
-        <p align="center" style="font-size: 0.9em; font-style: italic;">Android + Kotlin + FastAPI + TensorFlow</p>
-        <hr style="border-color: rgba(255, 255, 255, 0.1);">
-        <p style="font-size: 0.95em;">An intelligent Android ecosystem using machine learning to intercept, analyze, and neutralize malicious URLs in real-time, preventing phishing attacks at the source.</p>
+        <h3 align="center" style="color: #E52521;">🛡️ LinkGuard AI</h3>
+        <p align="center" style="font-size: 0.85em; color: #E52521;"><strong>Android • ML • Cybersecurity</strong></p>
+        <hr style="border: 0.5px solid rgba(229, 37, 33, 0.2);">
+        <p style="font-size: 0.95em;">Real-time URL interception and analysis system. Detects phishing threats via local ML inference.</p>
         <ul>
-          <li style="font-size: 0.9em;">**Impact:** Reduces URL analysis latency by ~40% using local ML inference, processing over 10K test URLs with 98% accuracy.</li>
+          <li style="font-size: 0.9em;"><strong>Impact:</strong> 98% accuracy with 40% lower latency than cloud API alternatives.</li>
         </ul>
         <p align="center">
-          <a href="https://github.com/preetham-empati/linkguard-ai"><img src="https://img.shields.io/badge/View_Code-45A1FF?style=flat-square&logo=github&logoColor=white" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+          <a href="https://github.com/preetham-empati/linkguard-ai"><img src="https://img.shields.io/badge/Code-E52521?style=flat-square&logo=github&logoColor=white" /></a>
+          <a href="#"><img src="https://img.shields.io/badge/Demo-white?style=flat-square&logo=google-chrome&logoColor=E52521" /></a>
         </p>
       </div>
     </td>
     <td width="4%">&nbsp;</td>
-    <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.1); background: rgba(26, 27, 38, 0.8); backdrop-filter: blur(10px); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.3); transition: transform 0.3s, box-shadow 0.3s;">
-      <div onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 12px 48px 0 rgba(31, 38, 135, 0.5)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 32px 0 rgba(31, 38, 135, 0.3)';">
+    <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(67, 176, 71, 0.3); background: rgba(67, 176, 71, 0.05); backdrop-filter: blur(10px); box-shadow: 0 8px 32px 0 rgba(67, 176, 71, 0.2);">
+      <div onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';">
         <p align="center">
-          <img src="https://i.imgur.com/gK6nF6A.png" alt="ProjectBuddy Preview" width="100%" style="border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+          <img src="https://i.imgur.com/gK6nF6A.png" alt="ProjectBuddy" width="100%" style="border-radius: 12px; border: 1px solid rgba(67, 176, 71, 0.2);" />
         </p>
-        <h3 align="center" style="color: #45A1FF;">🎓 ProjectBuddy</h3>
-        <p align="center" style="font-size: 0.9em; font-style: italic;">Full-Stack MERN + Glassmorphism UI</p>
-        <hr style="border-color: rgba(255, 255, 255, 0.1);">
-        <p style="font-size: 0.95em;">A peer-to-peer startup platform connecting students with technical mentors, focusing on bridging the academic-industry gap through collaborative engineering projects.</p>
+        <h3 align="center" style="color: #43B047;">🎓 ProjectBuddy</h3>
+        <p align="center" style="font-size: 0.85em; color: #43B047;"><strong>Full-Stack • MERN • Education</strong></p>
+        <hr style="border: 0.5px solid rgba(67, 176, 71, 0.2);">
+        <p style="font-size: 0.95em;">P2P startup connecting students with technical mentors through an interactive glassmorphic UI.</p>
         <ul>
-          <li style="font-size: 0.9em;">**Impact:** Engineered a MongoDB aggregation pipeline that reduced mentor matching time by 70%, currently supporting over 500 active student-mentor interactions.</li>
+          <li style="font-size: 0.9em;"><strong>Impact:</strong> 500+ active users; reduced mentor-match time by 70% via optimized DB queries.</li>
         </ul>
         <p align="center">
-          <a href="https://github.com/preetham-empati/projectbuddy"><img src="https://img.shields.io/badge/View_Code-45A1FF?style=flat-square&logo=github&logoColor=white" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+          <a href="https://github.com/preetham-empati/projectbuddy"><img src="https://img.shields.io/badge/Code-43B047?style=flat-square&logo=github&logoColor=white" /></a>
+          <a href="#"><img src="https://img.shields.io/badge/Demo-white?style=flat-square&logo=google-chrome&logoColor=43B047" /></a>
         </p>
       </div>
     </td>
@@ -73,46 +93,45 @@ I am an AI and Data Science student at **Vignan Institute of Technology and Scie
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.1); background: rgba(26, 27, 38, 0.8); backdrop-filter: blur(10px); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.3); transition: transform 0.3s, box-shadow 0.3s;">
-      <div onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 12px 48px 0 rgba(31, 38, 135, 0.5)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 32px 0 rgba(31, 38, 135, 0.3)';">
+    <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(69, 161, 255, 0.3); background: rgba(69, 161, 255, 0.05); backdrop-filter: blur(10px); box-shadow: 0 8px 32px 0 rgba(69, 161, 255, 0.2);">
+      <div onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';">
         <p align="center">
-          <img src="https://i.imgur.com/Uo2eL6x.gif" alt="3D Portfolio Preview" width="100%" style="border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+          <img src="https://i.imgur.com/Uo2eL6x.gif" alt="3D Portfolio" width="100%" style="border-radius: 12px; border: 1px solid rgba(69, 161, 255, 0.2);" />
         </p>
-        <h3 align="center" style="color: #45A1FF;">🌐 3D Interactive Portfolio</h3>
-        <p align="center" style="font-size: 0.9em; font-style: italic;">Three.js + GSAP + React + Parallax</p>
-        <hr style="border-color: rgba(255, 255, 255, 0.1);">
-        <p style="font-size: 0.95em;">A high-performance personal landing page designed to impress IT recruiters, showcasing engineering skills with a smooth, cinematic, 3D interactive user experience.</p>
+        <h3 align="center" style="color: #45A1FF;">🌐 3D Cinematic Portfolio</h3>
+        <p align="center" style="font-size: 0.85em; color: #45A1FF;"><strong>Three.js • GSAP • React</strong></p>
+        <hr style="border: 0.5px solid rgba(69, 161, 255, 0.2);">
+        <p style="font-size: 0.95em;">Immersive portfolio with custom shaders, parallax effects, and high-performance 3D interactions.</p>
         <ul>
-          <li style="font-size: 0.9em;">**Impact:** Achieved a sub-2s initial load time by optimizing 3D model compression (GLB/Draco), ensuring 100% responsiveness across devices.</li>
+          <li style="font-size: 0.9em;"><strong>Impact:</strong> Sub-1s load time via GLB Draco compression; mobile-optimized interactive 3D.</li>
         </ul>
         <p align="center">
-          <a href="https://github.com/preetham-empati/3d-portfolio"><img src="https://img.shields.io/badge/View_Code-45A1FF?style=flat-square&logo=github&logoColor=white" /></a>
-          <a href="https://preetham-empati.github.io/preetham-s_portfolio/"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+          <a href="https://github.com/preetham-empati/3d-portfolio"><img src="https://img.shields.io/badge/Code-45A1FF?style=flat-square&logo=github&logoColor=white" /></a>
+          <a href="https://preetham-empati.github.io/preetham-s_portfolio/"><img src="https://img.shields.io/badge/Live-white?style=flat-square&logo=google-chrome&logoColor=45A1FF" /></a>
         </p>
       </div>
     </td>
     <td width="4%">&nbsp;</td>
-    <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.1); background: rgba(26, 27, 38, 0.8); backdrop-filter: blur(10px); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.3); transition: transform 0.3s, box-shadow 0.3s;">
-      <div onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 12px 48px 0 rgba(31, 38, 135, 0.5)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 32px 0 rgba(31, 38, 135, 0.3)';">
+    <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(248, 216, 112, 0.3); background: rgba(248, 216, 112, 0.05); backdrop-filter: blur(10px); box-shadow: 0 8px 32px 0 rgba(248, 216, 112, 0.2);">
+      <div onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';">
         <p align="center">
-          <img src="https://i.imgur.com/N74sC6v.gif" alt="Smart Monitoring Preview" width="100%" style="border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+          <img src="https://i.imgur.com/N74sC6v.gif" alt="Smart Monitoring" width="100%" style="border-radius: 12px; border: 1px solid rgba(248, 216, 112, 0.2);" />
         </p>
-        <h3 align="center" style="color: #45A1FF;">👁️ Smart Classroom Monitoring</h3>
-        <p align="center" style="font-size: 0.9em; font-style: italic;">OpenCV + MediaPipe + Flask + Python</p>
-        <hr style="border-color: rgba(255, 255, 255, 0.1);">
-        <p style="font-size: 0.95em;">An AI-driven Computer Vision system that uses face/hand mesh detection to track real-time attentiveness of students, deploying the results to a Flask web dashboard.</p>
+        <h3 align="center" style="color: #F8D870;">👁️ Smart Classroom AI</h3>
+        <p align="center" style="font-size: 0.85em; color: #F8D870;"><strong>OpenCV • MediaPipe • Python</strong></p>
+        <hr style="border: 0.5px solid rgba(248, 216, 112, 0.2);">
+        <p style="font-size: 0.95em;">Computer Vision system for real-time tracking of student attentiveness and hand mesh metrics.</p>
         <ul>
-          <li style="font-size: 0.9em;">**Impact:** Engineered a local preprocessing pipeline that achieves 30 FPS inference on a standard webcam, with 95% detection accuracy under varying lighting.</li>
+          <li style="font-size: 0.9em;"><strong>Impact:</strong> Local preprocessing optimized for 30 FPS inference on standard hardware.</li>
         </ul>
         <p align="center">
-          <a href="https://github.com/preetham-empati/smart-monitoring"><img src="https://img.shields.io/badge/View_Code-45A1FF?style=flat-square&logo=github&logoColor=white" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+          <a href="https://github.com/preetham-empati/smart-monitoring"><img src="https://img.shields.io/badge/Code-F8D870?style=flat-square&logo=github&logoColor=black" /></a>
+          <a href="#"><img src="https://img.shields.io/badge/Demo-black?style=flat-square&logo=google-chrome&logoColor=white" /></a>
         </p>
       </div>
     </td>
   </tr>
 </table>
-
 ---
 ---
 ### 🕹️ Level 1-1: The Contribution Kingdom
