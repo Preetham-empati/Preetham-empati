@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXdqZ3R4bm94bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcKGRZaOyc/giphy.gif" width="400" alt="Neural Network Animation" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-drawing.gif" width="400" alt="Neural Network Animation" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&color=39D353&height=100&section=header&text=E.%20PREETHAM&fontSize=50&fontAlignY=40&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descAlignY=75&descSize=18" width="100%" />
-</p>
+<h1 align="center">E. PREETHAM</h1>
+<p align="center"><strong>AI & DATA SCIENCE ENGINEER</strong></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Architecting+Intelligent+Systems;Full-Stack+Software+Engineer;Immersive+3D+UI+Designer;Transforming+Data+into+Logic" alt="Typing SVG" />
