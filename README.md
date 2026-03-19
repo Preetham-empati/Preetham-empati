@@ -106,11 +106,11 @@
   <tr>
     <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(229, 37, 33, 0.2); background: rgba(229, 37, 33, 0.05); backdrop-filter: blur(10px);">
       <div onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(229, 37, 33, 0.3)'; this.style.borderColor='rgba(229, 37, 33, 0.6)';" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='none'; this.style.borderColor='rgba(229, 37, 33, 0.2)';" style="transition: 0.4s ease;">
-        <p align="center"><img src="https://i.imgur.com/kS5z5w8.png" width="100%" style="border-radius: 12px;" /></p>
+        <p align="center"><img src="ChatGPT Image Mar 19, 2026, 08_45_45 PM.png" width="100%" style="border-radius: 12px;" /></p>
         <h3 align="center" style="color: #E52521;">🛡️ LinkGuard AI</h3>
         <p align="center" style="font-size: 0.85em; color: #E52521;"><strong>Android • ML • Cybersecurity</strong></p>
         <hr style="border: 0.5px solid rgba(229, 37, 33, 0.2);">
-        <p style="font-size: 0.9em;">Real-time ML analysis for intercepting malicious URLs. Reduced latency by 40%.</p>
+        <p style="font-size: 0.9em;">LinkGuard AI is a real-time cybersecurity solution that protects users from phishing and malicious links on mobile devices. It intercepts links before they open, analyzes them using machine learning and heuristic techniques, and blocks harmful content instantly. Additionally, it monitors device risks such as unsafe app permissions and suspicious behavior to ensure a secure environment during digital interactions.</p>
         <p align="center">
           <a href="https://github.com/preetham-empati/linkguard-ai"><img src="https://img.shields.io/badge/Code-E52521?style=flat-square&logo=github&logoColor=white" /></a>
           <a href="#"><img src="https://img.shields.io/badge/Demo-white?style=flat-square&logo=google-chrome&logoColor=E52521" /></a>
