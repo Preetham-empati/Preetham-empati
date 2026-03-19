@@ -158,16 +158,13 @@
 
 ---
 
-### 🕹️ Level 1-1: The Contribution Kingdom
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/preetham-empati/preetham-empati/output/github-contribution-grid-snake.svg" alt="Mario Contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/preetham-empati/preetham-empati/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SCORE-0024500-white?style=press-start-2p&color=red" /> 
-  <img src="https://img.shields.io/badge/WORLD-1--1-white?style=press-start-2p&color=blue" />
-  <img src="https://64.media.tumblr.com/710896060c238b1d64c185a73e34b971/tumblr_inline_p7n86vS8U61un9p9n_540.gif" width="30" />
-  <img src="https://img.shields.io/badge/TIME-∞-white?style=press-start-2p&color=orange" />
+  <i>"Consistency is the foundation of mastery."</i>
 </p>
 
 ---
