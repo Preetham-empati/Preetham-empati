@@ -169,12 +169,21 @@
 
 ---
 
-### 📊 Vital Stats
+---
+
+### 📊 Vital Stats [System Diagnostics]
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetham-empati&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=preetham-empati&show_icons=true&theme=tokyonight&bg_color=000000&title_color=39d353&icon_color=39d353&text_color=ffffff&count_private=true" alt="Preetham's Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetham-empati&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetham-empati&theme=tokyonight&background=000000&fire=39d353&ring=39d353&stroke=39d353&currStreakLabel=ffffff" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Status-OPTIMAL-39d353?style=flat-square&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/Uptime-100%25-39d353?style=flat-square" />
+</p>
+
+---
 
 ---
 
