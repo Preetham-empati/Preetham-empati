@@ -120,7 +120,7 @@
     <td width="4%">&nbsp;</td>
     <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(67, 176, 71, 0.2); background: rgba(67, 176, 71, 0.05); backdrop-filter: blur(10px);">
       <div onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(67, 176, 71, 0.3)'; this.style.borderColor='rgba(67, 176, 71, 0.6)';" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='none'; this.style.borderColor='rgba(67, 176, 71, 0.2)';" style="transition: 0.4s ease;">
-        <p align="center"><img src="https://i.imgur.com/gK6nF6A.png" width="100%" style="border-radius: 12px;" /></p>
+        <p align="center"><img src="4b3c9a77-9a7d-444b-b4db-d6a858cd1283.png" width="100%" style="border-radius: 12px;" /></p>
         <h3 align="center" style="color: #43B047;">🎓 ProjectBuddy</h3>
         <p align="center" style="font-size: 0.85em; color: #43B047;"><strong>Full-Stack • MERN • Education</strong></p>
         <hr style="border: 0.5px solid rgba(67, 176, 71, 0.2);">
@@ -140,7 +140,7 @@
   <tr>
     <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(69, 161, 255, 0.2); background: rgba(69, 161, 255, 0.05); backdrop-filter: blur(10px);">
       <div onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(69, 161, 255, 0.3)'; this.style.borderColor='rgba(69, 161, 255, 0.6)';" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='none'; this.style.borderColor='rgba(69, 161, 255, 0.2)';" style="transition: 0.4s ease;">
-        <p align="center"><img src="ChatGPT Image Mar 19, 2026, 08_49_31 PM.png" width="100%" style="border-radius: 12px;" /></p>
+        <p align="center"><img src="Screenshot 2026-03-19 205023.png" width="100%" style="border-radius: 12px;" /></p>
         <h3 align="center" style="color: #45A1FF;">🌐 3D Portfolio</h3>
         <p align="center" style="font-size: 0.85em; color: #45A1FF;"><strong>Three.js • GSAP • React</strong></p>
         <hr style="border: 0.5px solid rgba(69, 161, 255, 0.2);">
@@ -154,7 +154,7 @@
     <td width="4%">&nbsp;</td>
     <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(248, 216, 112, 0.2); background: rgba(248, 216, 112, 0.05); backdrop-filter: blur(10px);">
       <div onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(248, 216, 112, 0.3)'; this.style.borderColor='rgba(248, 216, 112, 0.6)';" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='none'; this.style.borderColor='rgba(248, 216, 112, 0.2)';" style="transition: 0.4s ease;">
-        <p align="center"><img src="https://i.imgur.com/N74sC6v.gif" width="100%" style="border-radius: 12px;" /></p>
+        <p align="center"><img src="ChatGPT Image Mar 19, 2026, 08_49_31 PM.png" width="100%" style="border-radius: 12px;" /></p>
         <h3 align="center" style="color: #F8D870;">👁️ Smart Monitoring</h3>
         <p align="center" style="font-size: 0.85em; color: #F8D870;"><strong>OpenCV • MediaPipe • Python</strong></p>
         <hr style="border: 0.5px solid rgba(248, 216, 112, 0.2);">
