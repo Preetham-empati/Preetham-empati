@@ -84,12 +84,12 @@
   <tr>
     <td width="33%" align="center" style="padding: 10px; border: 1px solid rgba(229, 37, 33, 0.3); border-radius: 10px; background: rgba(229, 37, 33, 0.05);">
       <p style="margin: 0; font-size: 0.8em; color: #E52521;"><strong>LINKGUARD AI</strong></p>
-      <img src="https://geps.dev/v1/hp?total=100&current=100&color=E52521" width="100" />
+      <img src="ChatGPT Image Mar 19, 2026, 08_45_45 PM.png" width="100" />
       <p style="margin: 0; font-size: 0.7em; color: #E52521;">✅ <strong>STABLE / PROD</strong></p>
     </td>
     <td width="33%" align="center" style="padding: 10px; border: 1px solid rgba(67, 176, 71, 0.3); border-radius: 10px; background: rgba(67, 176, 71, 0.05);">
       <p style="margin: 0; font-size: 0.8em; color: #43B047;"><strong>PROJECTBUDDY</strong></p>
-      <img src="https://geps.dev/v1/hp?total=100&current=85&color=43B047" width="100" />
+      <img src="ChatGPT Image Feb 21, 2026, 09_55_52 AM.png" width="100" />
       <p style="margin: 0; font-size: 0.7em; color: #43B047;">🚧 <strong>BETA / SCALING</strong></p>
     </td>
     <td width="33%" align="center" style="padding: 10px; border: 1px solid rgba(69, 161, 255, 0.3); border-radius: 10px; background: rgba(69, 161, 255, 0.05);">
@@ -140,7 +140,7 @@
   <tr>
     <td width="48%" valign="top" style="padding: 15px; border-radius: 20px; border: 1px solid rgba(69, 161, 255, 0.2); background: rgba(69, 161, 255, 0.05); backdrop-filter: blur(10px);">
       <div onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(69, 161, 255, 0.3)'; this.style.borderColor='rgba(69, 161, 255, 0.6)';" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='none'; this.style.borderColor='rgba(69, 161, 255, 0.2)';" style="transition: 0.4s ease;">
-        <p align="center"><img src="https://i.imgur.com/Uo2eL6x.gif" width="100%" style="border-radius: 12px;" /></p>
+        <p align="center"><img src="ChatGPT Image Mar 19, 2026, 08_49_31 PM.png" width="100%" style="border-radius: 12px;" /></p>
         <h3 align="center" style="color: #45A1FF;">🌐 3D Portfolio</h3>
         <p align="center" style="font-size: 0.85em; color: #45A1FF;"><strong>Three.js • GSAP • React</strong></p>
         <hr style="border: 0.5px solid rgba(69, 161, 255, 0.2);">
