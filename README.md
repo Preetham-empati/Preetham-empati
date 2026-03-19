@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/17161060937879338823_0" width="600" alt="Neural Network Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXdqZ3R4bm94bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcKGRZaOyc/giphy.gif" width="400" alt="Neural Network Animation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=120&section=header&text=E.%20PREETHAM&fontSize=50&animation=fadeIn&fontAlignY=50&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descAlignY=80&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=transparent&color=39D353&height=100&section=header&text=E.%20PREETHAM&fontSize=50&fontAlignY=40&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descAlignY=75&descSize=18" width="100%" />
 </p>
 
 <p align="center">
