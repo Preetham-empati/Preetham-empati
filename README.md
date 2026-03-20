@@ -1,26 +1,32 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=E.%20PREETHAM&fontSize=80&animation=fadeIn&fontColor=39D353&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descSize=22&descAlignY=70&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=E.%20PREETHAM&fontSize=80&animation=fadeIn&fontColor=39D353" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-drawing.gif" width="450" style="margin-top: -60px;" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-drawing.gif" width="400" />
 </p>
 
 <div align="center">
+
+  ### ⚡ AI & DATA SCIENCE ENGINEER
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Architecting+Intelligent+Systems;Full-Stack+Software+Engineer;Immersive+3D+UI+Designer;Transforming+Data+into+Logic)](https://git.io/typing-svg)
+
+  <br />
+
   <a href="https://linkedin.com/in/preetham-empati">
-    <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" />
+    <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://preetham-empati.github.io/preetham-s_portfolio/">
-    <img src="https://img.shields.io/badge/EXPLORE_3D-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/EXPLORE_3D-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;
   <a href="YOUR_RESUME_URL">
-    <img src="https://img.shields.io/badge/RESUME-39D353?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black" alt="Resume" />
+    <img src="https://img.shields.io/badge/RESUME-39D353?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black" />
   </a>
 
-  <br><br>
+  <br /><br />
 
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPTIMAL-39D353?style=flat-square&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/BUILDING-PROJECTBUDDY-45A1FF?style=flat-square&logo=react&logoColor=white" />
@@ -28,7 +34,7 @@
 
 </div>
 
-<br>
+<br />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=39D353&height=2&section=footer&width=100%" />
