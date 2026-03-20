@@ -1,23 +1,36 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-drawing.gif" width="400" alt="Neural Network Animation" />
-</p>
-
-<h1 align="center">E. PREETHAM</h1>
-<p align="center"><strong>AI & DATA SCIENCE ENGINEER</strong></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Architecting+Intelligent+Systems;Full-Stack+Software+Engineer;Immersive+3D+UI+Designer;Transforming+Data+into+Logic" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&section=header&text=E.%20PREETHAM&fontSize=80&animation=fadeIn&fontColor=39D353" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/preetham-empati"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://preetham-empati.github.io/preetham-s_portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/RESUME-39D353?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black" /></a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-drawing.gif" width="350" alt="Neural Network" />
 </p>
 
+<div align="center">
+  
+  ## ⚡ AI & DATA SCIENCE ENGINEER
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Architecting+Intelligent+Systems;Full-Stack+Software+Engineer;Immersive+3D+UI+Designer;Transforming+Data+into+Logic)](https://git.io/typing-svg)
+
+  <p>
+    <a href="https://linkedin.com/in/preetham-empati"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://preetham-empati.github.io/preetham-s_portfolio/"><img src="https://img.shields.io/badge/EXPLORE_3D-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/RESUME-39D353?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black" /></a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPTIMAL-39D353?style=flat-square&logo=target" />
+    <img src="https://img.shields.io/badge/BUILDING-PROJECTBUDDY-45A1FF?style=flat-square&logo=react" />
+    <img src="https://img.shields.io/badge/ORIGIN-TELANGANA,_INDIA-red?style=flat-square&logo=googlemaps" />
+  </p>
+
+</div>
+
+<br />
+
 <p align="center">
-  <img src="https://img.shields.io/badge/CURRENT_STATUS-BUILDING_PROJECTBUDDY-39D353?style=flat-square&logo=target" />
-  <img src="https://img.shields.io/badge/LOCATION-TELANGANA,_INDIA-red?style=flat-square&logo=googlemaps" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetham-empati&layout=compact&theme=tokyonight&hide_border=true&title_color=39D353&bg_color=00000000" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=preetham-empati&show_icons=true&theme=tokyonight&hide_border=true&title_color=39D353&bg_color=00000000" width="45%" />
 </p>
 
 ---
