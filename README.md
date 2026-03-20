@@ -48,47 +48,45 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Arsenal [Kernel Modules]
+
+<div align="center">
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
-      <div style="padding: 15px; border-radius: 15px; border: 1px solid rgba(69, 161, 255, 0.2); background: rgba(69, 161, 255, 0.05); backdrop-filter: blur(10px);">
-        <h4 align="center" style="color: #45A1FF; margin-top: 0;">🚀 Languages & Logic</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=python,kotlin,js,ts,cpp,java,c" />
-        </p>
+      <div align="center" style="padding: 20px; border-radius: 20px; border: 1.5px solid rgba(57, 211, 83, 0.3); background: linear-gradient(145deg, rgba(57, 211, 83, 0.1), rgba(0,0,0,0.4)); transition: 0.3s transform ease-in-out;" onmouseover="this.style.transform='scale(1.02)';" onmouseout="this.style.transform='scale(1)';">
+        <h4 style="color: #39D353; margin-bottom: 15px;">🚀 LANGUAGES & LOGIC</h4>
+        <a href="#"><img src="https://skillicons.dev/icons?i=python,kotlin,js,ts,cpp,java,c&theme=dark" alt="Languages" /></a>
       </div>
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
-      <div style="padding: 15px; border-radius: 15px; border: 1px solid rgba(248, 216, 112, 0.2); background: rgba(248, 216, 112, 0.05); backdrop-filter: blur(10px);">
-        <h4 align="center" style="color: #F8D870; margin-top: 0;">🧠 AI & Data Science</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,sklearn,opencv" />
-        </p>
+      <div align="center" style="padding: 20px; border-radius: 20px; border: 1.5px solid rgba(248, 216, 112, 0.3); background: linear-gradient(145deg, rgba(248, 216, 112, 0.1), rgba(0,0,0,0.4)); transition: 0.3s transform ease-in-out;" onmouseover="this.style.transform='scale(1.02)';" onmouseout="this.style.transform='scale(1)';">
+        <h4 style="color: #F8D870; margin-bottom: 15px;">🧠 AI & DATA SCIENCE</h4>
+        <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,sklearn,opencv&theme=dark" alt="AI" /></a>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
-      <div style="padding: 15px; border-radius: 15px; border: 1px solid rgba(67, 176, 71, 0.2); background: rgba(67, 176, 71, 0.05); backdrop-filter: blur(10px);">
-        <h4 align="center" style="color: #43B047; margin-top: 0;">🎨 Immersive UI</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,html,css" />
-        </p>
+      <div align="center" style="padding: 20px; border-radius: 20px; border: 1.5px solid rgba(69, 161, 255, 0.3); background: linear-gradient(145deg, rgba(69, 161, 255, 0.1), rgba(0,0,0,0.4)); transition: 0.3s transform ease-in-out;" onmouseover="this.style.transform='scale(1.02)';" onmouseout="this.style.transform='scale(1)';">
+        <h4 style="color: #45A1FF; margin-bottom: 15px;">🎨 IMMERSIVE UI</h4>
+        <a href="#"><img src="https://skillicons.dev/icons?i=react,threejs,tailwind,html,css&theme=dark" alt="UI" /></a>
       </div>
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
-      <div style="padding: 15px; border-radius: 15px; border: 1px solid rgba(229, 37, 33, 0.2); background: rgba(229, 37, 33, 0.05); backdrop-filter: blur(10px);">
-        <h4 align="center" style="color: #E52521; margin-top: 0;">⚙️ Backend & Systems</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,aws,arduino,git" />
-        </p>
+      <div align="center" style="padding: 20px; border-radius: 20px; border: 1.5px solid rgba(229, 37, 33, 0.3); background: linear-gradient(145deg, rgba(229, 37, 33, 0.1), rgba(0,0,0,0.4)); transition: 0.3s transform ease-in-out;" onmouseover="this.style.transform='scale(1.02)';" onmouseout="this.style.transform='scale(1)';">
+        <h4 style="color: #E52521; margin-bottom: 15px;">⚙️ BACKEND & SYSTEMS</h4>
+        <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,aws,arduino,git&theme=dark" alt="Backend" /></a>
       </div>
     </td>
   </tr>
 </table>
 
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Active_Learning-Neural_Network_Optimization-39D353?style=for-the-badge&logo=opsgenie&logoColor=white" />
+</p>
 ---
 
 ### 🛠️ Technical Ecosystems
